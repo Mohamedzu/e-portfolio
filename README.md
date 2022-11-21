@@ -70,7 +70,7 @@ minishell| This project is about implementing some shell features based on bash 
 
 ### Achievements
 
-<div style="width:350px">Achievement</div> | <div style="width:150px">Qualification</div>
+Achievement | Qualification
 ------- | -----
 Functional mathematics course | Passed with 🏅Distinction
 Exam Rank 02 | [![malzubai's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl7jfpawv00060gjugg7czk8k/project/2469139)](https://github.com/JaeSeoKim/badge42)
