@@ -1,12 +1,3 @@
-
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 110%;
-}
-</style>
 Mohamed Alzubaidi (malzubai)\
 42 Abu Dhabi\
 Date: 14/11/2022
@@ -20,8 +11,10 @@ Date: 14/11/2022
 - 🔭 I'm looking forward to getting more experience in algorithms & backend development 
 
 
-<a href="https://github.com/mohamedzu"><img src="https://github-readme-stats.vercel.app/api?username=Mohamedzu&hide=stars&count_private=true&show_icons=true&disable_animations=true&include_all_commits=true" alt="Mohamed's GitHub stats" class="center"/></a>
-===
+<div align="center">
+	<a href="https://github.com/mohamedzu"><img src="https://github-readme-stats.vercel.app/api?username=Mohamedzu&hide=stars&count_private=true&show_icons=true&disable_animations=true&include_all_commits=true" alt="Mohamed's GitHub stats"/></a>
+</div>
+
 ### Experiences
 #### Frontend
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -39,7 +32,7 @@ Date: 14/11/2022
 - Used firebase in making MVPs like apps we built in the hackathons or fast solution to collect informations from users like surveys.
 - Managed and deployed our servers at Leam that hosts websites and backends for us and our clients.
 - Architected, implemented and managed the backend stack of romman.io on top of docker containers and Kubernetes cluster.
-===
+
 #### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -49,10 +42,11 @@ Date: 14/11/2022
 - My main machine is 14" MacBook Pro with the latest MacOS.
 - I use Vim to edit files when I'm in the terminal environment.
 
-
 ## 42 Abu Dhabi
 
-<img src="https://badge42.vercel.app/api/v2/cl7jfpawv00060gjugg7czk8k/stats?cursusId=21&coalitionId=155" class="center" />
+<div align="center">
+	<img src="https://badge42.vercel.app/api/v2/cl7jfpawv00060gjugg7czk8k/stats?cursusId=21&coalitionId=155"/>
+</div>
 
 Project | Learning outcomes | <div style="width:78px">Score</div>
 ------- | ----------- | -----
@@ -66,8 +60,6 @@ push_swap| This project was about sorting random set of numbers using limited se
 Philosophers| <ul><li>Learned about multi-thread and multi-process programming by implementing the dining philosophers problem</li><li>Learned how to synchronise shared resources between multiple threads by using mutexs and semaphores</li></ul> | [![malzubai's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl7jfpawv00060gjugg7czk8k/project/2642575)](https://github.com/JaeSeoKim/badge42)
 minishell| This project is about implementing some shell features based on bash using the C language in the Unix system | [![malzubai's 42 minishell Score](https://badge42.vercel.app/api/v2/cl7jfpawv00060gjugg7czk8k/project/2753321)](https://github.com/JaeSeoKim/badge42)
 
-
-
 ### Achievements
 
 Achievement | Qualification
@@ -75,4 +67,3 @@ Achievement | Qualification
 Functional mathematics course | Passed with 🏅Distinction
 Exam Rank 02 | [![malzubai's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl7jfpawv00060gjugg7czk8k/project/2469139)](https://github.com/JaeSeoKim/badge42)
 Exam Rank 03 | [![malzubai's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl7jfpawv00060gjugg7czk8k/project/2675144)](https://github.com/JaeSeoKim/badge42)
-
